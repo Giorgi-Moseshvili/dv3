@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">davaleba3</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="add_a_new_contact">Add a new contact</string>
+</resources>
